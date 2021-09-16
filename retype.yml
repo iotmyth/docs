@@ -1,0 +1,20 @@
+input: ./
+output: .retype
+url: iotnesia.id
+branding:
+  label: v1.0.0
+  logo: /static/iotnesia-v3.svg
+
+meta:
+  title: " | Documentation"
+
+links:
+  - text: Home
+    link: https://iotnesia.id/
+  - text: Our Team
+    link: https://iotnesia.id/our-team.html/
+footer:
+  copyright: "Copyright &copy; iotnesia.id, {{ year }}. All rights reserved."
+  links:
+    - text: About
+      link: helo.md
