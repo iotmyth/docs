@@ -1,5 +1,5 @@
 input: ./
-output: ../
+output: id
 url: docs.iotnesia.id
 branding:
   label: v1.0.0
@@ -12,9 +12,16 @@ links:
   - text: Home
     link: https://iotnesia.id/
   - text: Our Team
-    link: https://iotnesia.id/our-team.html/
+    link: https://iotnesia.id/our-team.html
 footer:
   copyright: "Copyright &copy; iotnesia.id, {{ year }}. All rights reserved."
   links:
     - text: About
-      link: helo.md
+      link: about.md
+    - text: Privacy Policies
+      link: https://iotnesia.id/privacy-policy.html
+    - text: Terms and Condition
+      link: https://iotnesia.id/terms-condition.html
+integrations:
+  googleAnalytics:
+    id: G-ZDG46BM0CH
