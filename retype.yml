@@ -1,5 +1,5 @@
 input: ./
-output: id
+output: docs
 url: docs.iotnesia.id
 branding:
   label: v1.0.0
