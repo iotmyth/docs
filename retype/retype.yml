@@ -1,6 +1,6 @@
 input: ./
-output: .retype
-url: iotnesia.id
+output: ../
+url: docs.iotnesia.id
 branding:
   label: v1.0.0
   logo: /static/iotnesia-v3.svg
