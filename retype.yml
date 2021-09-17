@@ -16,7 +16,7 @@ links:
 footer:
   copyright: "Copyright &copy; iotnesia.id, {{ year }}. All rights reserved."
   links:
-    - text: About Us
+    - text: About
       link: about.md
     - text: Privacy Policies
       link: https://iotnesia.id/privacy-policy.html
