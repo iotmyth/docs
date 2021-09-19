@@ -30,7 +30,7 @@ All operating systems are supported, Android, iOS, including Mac, Windows, and L
 ## Fitur-fitur IOTNESIA
 
 
-#### :selfie: HIGH MOBILITY PLATFORM 
+#### :iphone: HIGH MOBILITY PLATFORM 
 Hosted in cloud and accessible from Android, iOS, web, and desktop anywhere and anytime. 
 
 #### :dart: LIGHTNING FAST
