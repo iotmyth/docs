@@ -63,4 +63,4 @@ Technical support questions are best asked in the [Discussions](https://github.c
 
 If you find a defect or would like to submit a feature request, please create an [Issue](https://github.com/iotmyth/docs/issues) and we will investigate right away.
 
-Do you have a general inquiry? Please feel free to contact us at alfian@iotnesia.com.
+Do you have a general inquiry? Please feel free to contact us at founders@iotnesia.id.
